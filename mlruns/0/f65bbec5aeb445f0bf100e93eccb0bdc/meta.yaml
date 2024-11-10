@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/hp/Desktop/vs-code-2/mlops-project/mlruns/0/f65bbec5aeb445f0bf100e93eccb0bdc/artifacts
+end_time: 1731245368229
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f65bbec5aeb445f0bf100e93eccb0bdc
+run_name: skillful-penguin-43
+run_uuid: f65bbec5aeb445f0bf100e93eccb0bdc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731245364703
+status: 3
+tags: []
+user_id: hp

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/hp/Desktop/vs-code-2/mlops-project/mlruns/0/3c316bf246824278814a51d69b43440b/artifacts
+end_time: 1731249400902
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3c316bf246824278814a51d69b43440b
+run_name: nebulous-midge-778
+run_uuid: 3c316bf246824278814a51d69b43440b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731249398250
+status: 3
+tags: []
+user_id: hp
